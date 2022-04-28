@@ -6,7 +6,7 @@
 
 # https://sketchfab.com/3d-models/cat-dispenser-a48ec772fe3a43b8998836f5fafc4087
 
-![ARVR Assingment 2 Screenie](ARVR Assignment 2 Screenie.png)
+![ARVR Assingment 2 Screenie](ARVRAssignment2Screenie.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
